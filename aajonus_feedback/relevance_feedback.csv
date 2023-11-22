@@ -1,0 +1,15 @@
+Query,Result,Cosine,Relevance Score,Filename,Date,Max DF,Min DF,Ngram Range
+Genius children,"Child.,",0.4977997821650079,,The_Recipe_for_Living_Without_Disease.txt,2023-11-21 17:03:15.434519,0.7,0.0,"(1, 1)"
+Genius children,"Your body is always doing the best it can and
+it’s a genius.",0.526598897141908,,"Q&A_Of_January_27,_2013.txt",2023-11-21 17:03:15.434620,0.7,0.0,"(1, 1)"
+Genius children,"In the children
+who do not get vaccinations, you got three geniuses out of every ten.",0.5611802814661668,,"Q&A_Of_February_3,_2013.txt",2023-11-21 17:03:15.434689,0.7,0.0,"(1, 1)"
+Genius children,"All hyperactive children have potential genius, but unless they can utilize proteins or harness adrenaline, their genius may turn into antisocial behavior.",0.588753449079798,,We_Want_To_Live.txt,2023-11-21 17:03:15.434753,0.7,0.0,"(1, 1)"
+Genius children,The child is absolutely a genius.,0.8416843240422897,,"Q&A_Of_December_17,_2006.txt",2023-11-21 17:03:15.434812,0.7,0.0,"(1, 1)"
+The child is absolutely a genius.,"A: Absolutely, absolutely.",0.48436367078391174,,"Q&A_Of_November_27,_2005.txt",2023-11-21 17:05:08.314473,0.7,0.0,"(1, 1)"
+The child is absolutely a genius.,"In the children
+who do not get vaccinations, you got three geniuses out of every ten.",0.48532779869852916,,"Q&A_Of_February_3,_2013.txt",2023-11-21 17:05:08.314547,0.7,0.0,"(1, 1)"
+The child is absolutely a genius.,"All hyperactive children have potential genius, but unless they can utilize proteins or harness adrenaline, their genius may turn into antisocial behavior.",0.4955445488162964,,We_Want_To_Live.txt,2023-11-21 17:05:08.314618,0.7,0.0,"(1, 1)"
+The child is absolutely a genius.,"Your body is always doing the best it can and
+it’s a genius.",0.4957322993991634,,"Q&A_Of_January_27,_2013.txt",2023-11-21 17:05:08.314669,0.7,0.0,"(1, 1)"
+The child is absolutely a genius.,The child is absolutely a genius.,1.0000000000000002,,"Q&A_Of_December_17,_2006.txt",2023-11-21 17:05:08.314718,0.7,0.0,"(1, 1)"
